@@ -1,9 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=200&text=👋%20Hi!+I%27m+Feca&fontColor=fff&fontSize=30&color=1e2127)
+![header](https://capsule-render.vercel.app/api?type=soft&height=200&text=👋%20Hi!+I%27m+Feca&fontColor=fff&fontSize=50&color=1e2127)
 
 <br />
 
+<h2 align="center">📚 Stack 📚</h2>
+
+<h3 align="center">Language</h3>
+
 <p align="center">
-  <strong>I'm Feca</strong>
+  <img src="https://img.shields.io/badge/Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/C++-ebebeb?style=flat-square&logo=c%2B%2B&logoColor=608cc1" height="24" />&nbsp 
+</p>
+
+<h3 align="center">Front-End</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" /> 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=Gulp&logoColor=ebebeb" height="24" />&nbsp 
+  <img src="https://img.shields.io/badge/Webpack-1d78c1?style=flat-square&logo=Webpack&logoColor=ebebeb" height="24" />&nbsp 
 </p>
 
 <br />
