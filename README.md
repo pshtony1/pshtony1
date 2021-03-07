@@ -6,6 +6,14 @@
 
 <br />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pshtony1&theme=react&hide=issues" />
+  <br /><br />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpshtony1&count_bg=%2357DBDA&title_bg=%23555555&icon=github.svg&icon_color=%23DDDDDD&title=+visits+%F0%9F%91%8B&edge_flat=false" />
+</p>
+
+<br />
+
 <h1 align="center">📚 Stack 📚</h1>
 
 <h3 align="center">Language</h3>
@@ -101,7 +109,3 @@
   <br />
   <a href="https://github.com/pshtony1/Vanilla-Javascript/blob/master/RiotGames-LoginPage/README.md">Riot Games Login Form</a>
 </p>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pshtony1&theme=react&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpshtony1&count_bg=%2357DBDA&title_bg=%23555555&icon=github.svg&icon_color=%23DDDDDD&title=+visits+%F0%9F%91%8B&edge_flat=false)](https://hits.seeyoufarm.com)
