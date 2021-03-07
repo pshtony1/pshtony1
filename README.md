@@ -3,3 +3,6 @@
 <p align="center">
   I'm feca
 </p>
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pshtony1&theme=react)](https://github.com/anuraghazra/github-readme-stats)
