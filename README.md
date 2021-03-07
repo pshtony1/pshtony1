@@ -70,8 +70,6 @@
   <br />
   <br />
   <a href="https://github.com/pshtony1/youtube-clone">Youtube Clone</a>
-  <br />
-  <br />
 </p>
 
 <h3 align="center">React</h3>
@@ -81,8 +79,6 @@
   <br />
   <br />
   <a href="https://github.com/pshtony1/custom-hooks">Custom Hooks</a>
-  <br />
-  <br />
 </p>
 
 <h3 align="center">Vanilla Javascript</h3>
@@ -95,14 +91,15 @@
   <br />
   <br />
   <a href="https://github.com/pshtony1/Vanilla-Javascript/tree/master/Flappy%20Bird-AI">Train & Fight with Flappy Bird AI</a>
-  <br />
-  <br />
 </p>
 
 <h3 align="center">HTML/CSS</h3>
 
 <p align="center">
   <a href="https://github.com/pshtony1/kakao-clone">Kakao Talk Clone</a>
+  <br />
+  <br />
+  <a href="https://github.com/pshtony1/Vanilla-Javascript/blob/master/RiotGames-LoginPage/README.md">Riot Games Login Form</a>
 </p>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pshtony1&theme=react&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
