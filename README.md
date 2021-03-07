@@ -76,6 +76,10 @@
 <h3 align="center">I'm interested now...</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=Angular&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/React Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />
