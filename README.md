@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=200&text=👋%20Hello%2C+there!&fontColor=fff&fontSize=30&color=1e2127)
 
+<center> <h1>heading 1</h1> </center>
+
 <p align="center">
-  I'm feca
+  
 </p>
 
 
