@@ -99,6 +99,14 @@
 
 <br />
 
+<p align="center">
+  😭 I don't have enough time,
+  <br />
+  but learning is so much fun! 👍
+</p>
+
+<br />
+
 <h1 align="center">📄 Main Projects 📄</h1>
 
 <h3 align="center">Full-Stack</h3>
