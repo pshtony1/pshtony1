@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=200&text=👋%20Hello%2C+there!&fontColor=fff&fontSize=30&color=1e2127)
+![header](https://capsule-render.vercel.app/api?type=soft&height=200&text=👋%20Hi!+I%27m+Feca&fontColor=fff&fontSize=30&color=1e2127)
 
-<center> <h1>heading 1</h1> </center>
+<br />
 
 <p align="center">
-  
+  <strong>I'm Feca</strong>
 </p>
 
+<br />
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pshtony1&theme=react&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
