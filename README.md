@@ -2,7 +2,11 @@
 
 <br />
 
-<h2 align="center">📚 Stack 📚</h2>
+<h3 align="center">Always Record.</h3>
+
+<br />
+
+<h1 align="center">📚 Stack 📚</h1>
 
 <h3 align="center">Language</h3>
 
@@ -56,6 +60,50 @@
 </p>
 
 <br />
+
+<h1 align="center">📄 Main Projects 📄</h1>
+
+<h3 align="center">Full-Stack</h3>
+
+<p align="center">
+  <a href="https://github.com/pshtony1/twitter-clone">Twitter Clone</a>
+  <br />
+  <br />
+  <a href="https://github.com/pshtony1/youtube-clone">Youtube Clone</a>
+  <br />
+  <br />
+</p>
+
+<h3 align="center">React</h3>
+
+<p align="center">
+  <a href="https://github.com/pshtony1/movie-app">Movie App</a>
+  <br />
+  <br />
+  <a href="https://github.com/pshtony1/custom-hooks">Custom Hooks</a>
+  <br />
+  <br />
+</p>
+
+<h3 align="center">Vanilla Javascript</h3>
+
+<p align="center">
+  <a href="https://github.com/pshtony1/nomad-todo-competition">NomadCoders TodoList Competition</a>  
+  <br />
+  <br />
+  <a href="https://github.com/pshtony1/JS-Game/tree/master/Avoid%20Blobs">Avoid Blobs!</a>
+  <br />
+  <br />
+  <a href="https://github.com/pshtony1/Vanilla-Javascript/tree/master/Flappy%20Bird-AI">Train & Fight with Flappy Bird AI</a>
+  <br />
+  <br />
+</p>
+
+<h3 align="center">HTML/CSS</h3>
+
+<p align="center">
+  <a href="https://github.com/pshtony1/kakao-clone">Kakao Talk Clone</a>
+</p>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pshtony1&theme=react&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
