@@ -40,7 +40,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" /> 
+  <img src="https://img.shields.io/badge/React-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=ebebeb" height="24" />
 </p>
 
 <h3 align="center">Back-End</h3>
@@ -80,7 +81,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=Angular&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/React Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />
 </p>
