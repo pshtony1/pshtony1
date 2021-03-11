@@ -152,3 +152,51 @@
   <br />
   <a href="https://github.com/pshtony1/Vanilla-Javascript/blob/master/RiotGames-LoginPage/README.md">Riot Games Login Form</a>
 </p>
+
+<br />
+
+<h1 align="center">👀 What am I focused on... 👀</h1>
+
+<h3 align="center">New Stack & To learn more ✏</h3>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=Angular&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=GraphQL&logoColor=ebebeb" height="24" />&nbsp
+  <img src="https://img.shields.io/badge/React Native-61abcb?style=flat-square&logo=React&logoColor=ebebeb" height="24" />&nbsp
+</p>
+
+<br />
+
+<h3 align="center">The project on rails 🚆</h3>
+
+<h4 align="center">
+  <a href="https://github.com/pshtony1/avoid-blobs-together">Avoid Blobs Together</a>
+</h4>
+
+<p align="center">
+  Remastering my custom game <a href="https://github.com/pshtony1/JS-Game/tree/master/Avoid%20Blobs">Avoid Blobs</a>, attach multiplay with Express, Socket.io.
+</p>
+
+<br />
+
+<h4 align="center">
+  <a href="#">Shopping Cart</a>
+</h4>
+
+<p align="center">
+  Build a shopping cart with React & Typescript & Redux
+</p>
+
+<br />
+
+<h4 align="center">
+  <a href="#">Vanilla Single Page Application</a>
+</h4>
+
+<p align="center">
+  Build a Single Page Application width Vanilla Javascript (no Frameworks)
+</p>
