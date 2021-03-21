@@ -138,7 +138,7 @@
   <a href="https://github.com/pshtony1/nomad-todo-competition">NomadCoders TodoList Competition</a>  
   <br />
   <br />
-  <a href="https://github.com/pshtony1/JS-Game/tree/master/Avoid%20Blobs">Avoid Blobs!</a>
+  <a href="https://github.com/pshtony1/avoid-blobs">Avoid Blobs!</a>
   <br />
   <br />
   <a href="https://github.com/pshtony1/Vanilla-Javascript/tree/master/Flappy%20Bird-AI">Train & Fight with Flappy Bird AI</a>
@@ -178,7 +178,7 @@
 </h4>
 
 <p align="center">
-  Remastering my custom game <a href="https://github.com/pshtony1/JS-Game/tree/master/Avoid%20Blobs">Avoid Blobs</a>, attach multiplay with Express, Socket.io.
+  Remastering my custom game <a href="https://github.com/pshtony1/avoid-blobs">Avoid Blobs</a>, attach multiplay with Express, Socket.io.
 </p>
 
 <br />
